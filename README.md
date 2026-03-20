@@ -2,7 +2,7 @@
 
 Senior Network Engineer and Navy Veteran with 5+ years building and automating large-scale, multi-vendor network infrastructure - from DoD global edge networks to healthcare and semiconductor environments.
 
-Currently pursuing **CCNP Enterprise (Automation track)** and a B.S. in Computer Science at WGU (expected Spring 2027).
+Currently pursuing **CCNP Enterprise (Automation track)** and a B.S. in Computer Science at WGU (expected Spring 2028).
 
 ---
 
