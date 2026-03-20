@@ -1,6 +1,6 @@
 # Rickey Cornett — RickeyNet
 
-Senior Network Engineer and Navy Veteran with 5+ years building and automating large-scale, multi-vendor network infrastructure — from DoD global edge networks to healthcare and semiconductor environments.
+Senior Network Engineer and Navy Veteran with 5+ years building and automating large-scale, multi-vendor network infrastructure - from DoD global edge networks to healthcare and semiconductor environments.
 
 Currently pursuing **CCNP Enterprise (Automation track)** and a B.S. in Computer Science at WGU (expected Spring 2027).
 
@@ -27,10 +27,10 @@ Currently pursuing **CCNP Enterprise (Automation track)** and a B.S. in Computer
 | Repo | What it does |
 |------|-------------|
 | [Fortinet-to-Cisco-firewall-config-tool](https://github.com/RickeyNet/Fortinet-to-Cisco-firewall-config-tool) | Three-phase FortiGate → Cisco FTD migration tool — converts FortiGate configs (YAML) to FTD-compatible JSON, imports via FDM REST API, and handles bulk cleanup/rollback. Full GUI and CLI. |
-| [Plexus](https://github.com/RickeyNet/Plexus) | Python-first network automation control center inspired by AWX/Ansible Tower — device inventory management, playbook execution, config template storage, and live job streaming via REST API and WebSockets. |
-| [NetForge](https://github.com/RickeyNet/NetForge) | Standalone Windows desktop app for generating Cisco switch initial configs — define switch models, interface roles, and site profiles as reusable presets, then produce complete IOS configs through a 3-step wizard. |
-| [CiscoSwitch](https://github.com/RickeyNet/CiscoSwitch) | Automation scripts for Catalyst IOS-XE and Nexus NX-OS using Netmiko — config management and operational tooling. |
-| [BudgetArk](https://github.com/RickeyNet/BudgetArk) | Privacy-first mobile budgeting app — no account required, no data leaves your device. Built in TypeScript. Currently available on the Apple appstore |
+| [Plexus](https://github.com/RickeyNet/Plexus) | Python-first network automation control center inspired by AWX/Ansible Tower - device inventory management, playbook execution, config template storage, and live job streaming via REST API and WebSockets. |
+| [NetForge](https://github.com/RickeyNet/NetForge) | Standalone Windows desktop app for generating Cisco switch initial configs - define switch models, interface roles, and site profiles as reusable presets, then produce complete IOS configs through a 3-step wizard. |
+| [CiscoSwitch](https://github.com/RickeyNet/CiscoSwitch) | Automation scripts for Catalyst IOS-XE and Nexus NX-OS using Netmiko - config management and operational tooling. |
+| [BudgetArk](https://github.com/RickeyNet/BudgetArk) | Privacy-first mobile budgeting app - no account required, no data leaves your device. Built in TypeScript. Currently available on the Apple appstore |
 | [CiscoConfigDocs](https://github.com/RickeyNet/CiscoConfigDocs) | Reference documentation for configuring and setting up Cisco devices. |
 | [MD5-HashChecker](https://github.com/RickeyNet/MD5-HashChecker) | PowerShell script that computes MD5 hashes for every file in a directory and displays results in a formatted table. |
 
@@ -38,7 +38,7 @@ Currently pursuing **CCNP Enterprise (Automation track)** and a B.S. in Computer
 
 ## 🎯 Current focus
 
-- **CCNP Enterprise — Automation & Programmability track**
+- **CCNP Enterprise - Automation & Programmability track**
 - Deepening Python networking tooling: `nornir`, `napalm`, `pyATS`
 - Building toward a dedicated **network automation engineering** role
 
