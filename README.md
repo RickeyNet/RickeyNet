@@ -26,7 +26,7 @@ Currently pursuing **CCNP Enterprise (Automation track)** and a B.S. in Computer
 
 | Repo | What it does |
 |------|-------------|
-| [Fortinet-to-Cisco-firewall-config-tool](https://github.com/RickeyNet/Fortinet-to-Cisco-firewall-config-tool) | Three-phase FortiGate → Cisco FTD migration tool - converts FortiGate configs (YAML) to FTD-compatible JSON, imports via FDM REST API, and handles bulk cleanup/rollback. Full GUI and CLI. |
+| [Fortinet-to-Cisco-firewall-config-tool](https://github.com/RickeyNet/FirewallMigrationTool) | Three-phase FortiGate → Cisco FTD migration tool - converts FortiGate configs (YAML) to FTD-compatible JSON, imports via FDM REST API, and handles bulk cleanup/rollback. Full GUI and CLI. |
 | [Plexus](https://github.com/RickeyNet/Plexus) | Python-first network automation control center inspired by AWX/Ansible Tower - device inventory management, playbook execution, config template storage, and live job streaming via REST API and WebSockets. |
 | [NetForge](https://github.com/RickeyNet/NetForge) | Standalone Windows desktop app for generating Cisco switch initial configs - define switch models, interface roles, and site profiles as reusable presets, then produce complete IOS configs through a 3-step wizard. |
 | [CiscoSwitch](https://github.com/RickeyNet/CiscoSwitch) | Automation scripts for Catalyst IOS-XE and Nexus NX-OS using Netmiko - config management and operational tooling. |
