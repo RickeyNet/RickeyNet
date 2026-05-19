@@ -2,7 +2,7 @@
 
 Senior Network Engineer and Navy Veteran with 5+ years building and automating large-scale, multi-vendor network infrastructure - from DoD global edge networks to healthcare and semiconductor environments.
 
-Currently pursuing **CCNP Enterprise (Automation track)** and a B.S. in Computer Science at WGU (expected Spring 2028).
+Currently pursuing **CCNP Security**, Boot.dev Devops course, eventually Boot.dev Backend course, and a B.S. in Computer Science at WGU (expected Spring 2028).
 
 ---
 
@@ -15,7 +15,7 @@ Currently pursuing **CCNP Enterprise (Automation track)** and a B.S. in Computer
 `BGP` `OSPF` `EIGRP` `VLANs` `QoS` `High Availability Design` `Spanning Tree` `Data Center Networking`
 
 **Security & Firewalls**
-`Palo Alto / Panorama` `Fortinet FortiManager / FortiGate` `Cisco FMC / FTD / ASA` `Cisco ISE` `Zero Trust` `SonicWall`
+`Palo Alto / Panorama` `Fortinet FortiManager / FortiGate` `Cisco FMC / FTD / ASA` `Cisco ISE` `Zero Trust` `SonicWall` `OPNsense`
 
 **Platforms & Tools**
 `Cisco Catalyst / Nexus` `Cisco Catalyst Center` `SolarWinds NPM / NCM` `IOS-XE` `NX-OS` `AWS (VPC, EC2, NLB/ALB, Site-to-Site VPN)`
