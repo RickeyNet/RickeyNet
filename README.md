@@ -38,7 +38,8 @@ Currently pursuing **CCNP Security**, Boot.dev Devops course, eventually Boot.de
 
 ## 🎯 Current focus
 
-- **CCNP Enterprise - Automation & Programmability track**
+- **CCNP Security**
+- Boot.dev DevOps Engineer path
 - Deepening Python networking tooling: `nornir`, `napalm`, `pyATS`
 - Building toward a dedicated **network automation engineering** role
 
