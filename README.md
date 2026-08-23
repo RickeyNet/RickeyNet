@@ -1,6 +1,6 @@
 # Rickey Cornett — RickeyNet
 
-Senior Network Engineer and Navy Veteran with 5+ years building and automating large-scale, multi-vendor network infrastructure - from DoD global edge networks to healthcare and semiconductor environments.
+Cloud Network Engineer and Navy Veteran with 5+ years building and automating large-scale, multi-vendor network infrastructure - from DoD global edge networks to healthcare, finance and semiconductor environments.
 
 Currently pursuing **CCNP Security**, Boot.dev Devops course, eventually Boot.dev Backend course, and a B.S. in Computer Science at WGU (expected Spring 2028).
 
